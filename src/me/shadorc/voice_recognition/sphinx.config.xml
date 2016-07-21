@@ -95,7 +95,7 @@
     <component name="jsgfGrammar" type="edu.cmu.sphinx.jsgf.JSGFGrammar">
         <property name="dictionary" value="dictionary"/>
         <property name="grammarLocation"
-             value="resource:/flat10c/flat_voice_commands/"/>
+             value="resource:/me/shadorc/voice_recognition/"/>
         <property name="grammarName" value="flat_commands"/>
 	<property name="logMath" value="logMath"/>
     </component>
